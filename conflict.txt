@@ -1,1 +1,1 @@
-branch1 conflict test conflict
+branch1 conflict
