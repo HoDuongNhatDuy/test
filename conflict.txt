@@ -1,2 +1,2 @@
-master conflict
+branch1 conflict test conflict
 
